@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://lixintong911.github.io/sitemap.xml
