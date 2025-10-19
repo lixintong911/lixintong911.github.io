@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "My Chinese CV is available at [cv_lxt_cn.pdf](https://lixintong911.github.io/assets/pdf/cv_lxt_cn.pdf), and my English CV is available at [cv_lxt_en.pdf](https://lixintong911.github.io/assets/pdf/cv_lxt_en.pdf).",
+          description: "My Chinese CV is available at cv_lxt_cn.pdf, and my English CV is available at cv_lxt_en.pdf.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
